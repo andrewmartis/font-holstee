@@ -51,6 +51,7 @@
 .fc-icon-quality-circle:before,
 .fc-icon-quality:before,
 .fc-icon-reclaimed-circle:before,
+.fc-icon-recycled-circle:before,
 .fc-icon-recycled:before,
 .fc-icon-refreshedlogo:before,
 .fc-icon-refreshedlogocircle:before,
@@ -58,6 +59,7 @@
 .fc-icon-remotework:before,
 .fc-icon-rss-circle:before,
 .fc-icon-rss:before,
+.fc-icon-screenprint-circle:before,
 .fc-icon-screenprint:before,
 .fc-icon-search-circle:before,
 .fc-icon-search:before,
@@ -66,6 +68,7 @@
 .fc-icon-simple:before,
 .fc-icon-slim-profile:before,
 .fc-icon-snowflake-circle:before,
+.fc-icon-squeegee-circle:before,
 .fc-icon-squeegee:before,
 .fc-icon-submitstory-circle:before,
 .fc-icon-submitstory:before,
@@ -128,34 +131,37 @@
 .fc-icon-quality-circle:before { content: "\f120"; }
 .fc-icon-quality:before { content: "\f121"; }
 .fc-icon-reclaimed-circle:before { content: "\f122"; }
-.fc-icon-recycled:before { content: "\f123"; }
-.fc-icon-refreshedlogo:before { content: "\f124"; }
-.fc-icon-refreshedlogocircle:before { content: "\f125"; }
-.fc-icon-refreshedlogofill:before { content: "\f126"; }
-.fc-icon-remotework:before { content: "\f127"; }
-.fc-icon-rss-circle:before { content: "\f128"; }
-.fc-icon-rss:before { content: "\f129"; }
-.fc-icon-screenprint:before { content: "\f12a"; }
-.fc-icon-search-circle:before { content: "\f12b"; }
-.fc-icon-search:before { content: "\f12c"; }
-.fc-icon-seasonalretreat:before { content: "\f12d"; }
-.fc-icon-simple-circle:before { content: "\f12e"; }
-.fc-icon-simple:before { content: "\f12f"; }
-.fc-icon-slim-profile:before { content: "\f130"; }
-.fc-icon-snowflake-circle:before { content: "\f131"; }
-.fc-icon-squeegee:before { content: "\f132"; }
-.fc-icon-submitstory-circle:before { content: "\f133"; }
-.fc-icon-submitstory:before { content: "\f134"; }
-.fc-icon-teamlunches:before { content: "\f135"; }
-.fc-icon-tumblr-circle:before { content: "\f136"; }
-.fc-icon-tumblr:before { content: "\f137"; }
-.fc-icon-twitter-circle:before { content: "\f138"; }
-.fc-icon-twitter:before { content: "\f139"; }
-.fc-icon-upcycled-circle:before { content: "\f13a"; }
-.fc-icon-waterbased-circle:before { content: "\f13b"; }
-.fc-icon-weeklyrefresh-circle:before { content: "\f13c"; }
-.fc-icon-weeklyrefresh:before { content: "\f13d"; }
-.fc-icon-youthtrade-circle:before { content: "\f13e"; }
-.fc-icon-youthtrade:before { content: "\f13f"; }
-.fc-icon-youtube-circle:before { content: "\f140"; }
-.fc-icon-youtube:before { content: "\f141"; }
+.fc-icon-recycled-circle:before { content: "\f123"; }
+.fc-icon-recycled:before { content: "\f124"; }
+.fc-icon-refreshedlogo:before { content: "\f125"; }
+.fc-icon-refreshedlogocircle:before { content: "\f126"; }
+.fc-icon-refreshedlogofill:before { content: "\f127"; }
+.fc-icon-remotework:before { content: "\f128"; }
+.fc-icon-rss-circle:before { content: "\f129"; }
+.fc-icon-rss:before { content: "\f12a"; }
+.fc-icon-screenprint-circle:before { content: "\f12b"; }
+.fc-icon-screenprint:before { content: "\f12c"; }
+.fc-icon-search-circle:before { content: "\f12d"; }
+.fc-icon-search:before { content: "\f12e"; }
+.fc-icon-seasonalretreat:before { content: "\f12f"; }
+.fc-icon-simple-circle:before { content: "\f130"; }
+.fc-icon-simple:before { content: "\f131"; }
+.fc-icon-slim-profile:before { content: "\f132"; }
+.fc-icon-snowflake-circle:before { content: "\f133"; }
+.fc-icon-squeegee-circle:before { content: "\f134"; }
+.fc-icon-squeegee:before { content: "\f135"; }
+.fc-icon-submitstory-circle:before { content: "\f136"; }
+.fc-icon-submitstory:before { content: "\f137"; }
+.fc-icon-teamlunches:before { content: "\f138"; }
+.fc-icon-tumblr-circle:before { content: "\f139"; }
+.fc-icon-tumblr:before { content: "\f13a"; }
+.fc-icon-twitter-circle:before { content: "\f13b"; }
+.fc-icon-twitter:before { content: "\f13c"; }
+.fc-icon-upcycled-circle:before { content: "\f13d"; }
+.fc-icon-waterbased-circle:before { content: "\f13e"; }
+.fc-icon-weeklyrefresh-circle:before { content: "\f13f"; }
+.fc-icon-weeklyrefresh:before { content: "\f140"; }
+.fc-icon-youthtrade-circle:before { content: "\f141"; }
+.fc-icon-youthtrade:before { content: "\f142"; }
+.fc-icon-youtube-circle:before { content: "\f143"; }
+.fc-icon-youtube:before { content: "\f144"; }
