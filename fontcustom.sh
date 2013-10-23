@@ -1,6 +1,6 @@
 #!/bin/bash
 fontcustom compile ./svg --no-hash
-cp ./dist/font-holstee.css ./dist/font-holstee.less
-perl -pi -w -e 's/\(\"\.\/font-holstee/\(\"\@\{fontHolsteePath\}/g' ./dist/font-holstee.less
-mv ./dist/font-holstee-preview.html ./index.html
-perl -pi -w -e 's/\(\"\.\/font-holstee/\(\"\.\/dist\/font-holstee/g' ./index.html
+cp ./dist/font-custom.css ./dist/font-custom.less
+perl -pi -w -e 's/\(\"\.\/font-custom/\(\"\@\{FontCustomPath\}/g' ./dist/font-custom.less
+mv ./dist/font-custom-preview.html ./index.html
+perl -pi -w -e 's/\(\"\.\/font-custom/\(\"\.\/dist\/font-custom/g' ./index.html
